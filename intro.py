@@ -1,0 +1,17 @@
+print("Name: Sanjay")
+print("Std: 12th")
+print("School: Sri Sankara vidhyalaya")
+print("Mobile: 9176266520")
+print("Email: Sanjaynarayanan@gmail.com")
+print("Address: No 1 12th b cross krishna nagar pondycherry")
+print("What is python? Python was popular programming language")
+print("Who devoloped python? Gui dovan rossum")
+print("What is the relising date of python? 1991")
+print("ocean academy")
+print("prints")
+print("default")
+print(25+1)
+print(8+1)
+print(20+4)
+
+      
