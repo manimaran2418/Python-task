@@ -4,6 +4,7 @@ a=int(input("enter any year"))
 match a%4==0:
     case True:
          print("it is a leap year")
+         print("leap year")
     case False:
          print("it is not a leap year")
 
